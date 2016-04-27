@@ -25,12 +25,5 @@
         "zone.js": "0.6.10",
         "bootstrap": "^3.3.6"
     },
-    "devDependencies": {
-        "concurrently": "^2.0.0",
-        "lite-server": "^2.2.0",
-        "tslint": "^3.7.4",
-        "typescript": "^1.8.10",
-        "typings": "^0.7.12"
-    },
     "repository": {}
 }
